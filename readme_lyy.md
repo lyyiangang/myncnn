@@ -1,5 +1,6 @@
 # build
 ```
+git submodule update --init
 ./run-docker.sh
 
 source env.bashrc
